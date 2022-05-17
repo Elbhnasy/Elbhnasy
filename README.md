@@ -9,7 +9,7 @@
 <br>
 <p align="center"> 
 <!--   <img src="https://komarev.com/ghpvc/?username=Elbhnasy&label=Profile%20views&color=red&style=flat" alt="Elbhnasy" />  -->
-	<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=red&style=flat" alt="amirbayat0" /> 
+	<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=blue&style=flat" alt="amirbayat0" /> 
 </p>
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30px>  About me
