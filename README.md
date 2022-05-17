@@ -28,4 +28,5 @@ You can follow me on the socials, below 👇.
 	<a href="mailto:khaledtarek57357@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Elbhnasy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://twitter.com/K_Elbhnasy?t=TLf7FTVw2toJaq6AgN4WMA&s=09"><img src="https://img.shields.io/badge/twitter-%23E4405F.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
+
 </p
