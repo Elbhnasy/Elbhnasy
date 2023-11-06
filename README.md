@@ -17,7 +17,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
-Hello Everyone 👋, My name is Khaled Tarek Elbhnasy. I'm Artificial intelligence engineer👨‍💻
+Hello Everyone 👋, My name is Khaled Tarek Elbhnasy. I'm an Artificial intelligence engineer👨‍💻
 I’m interested in Deep learning and computer vision.
 You can follow me on the socials, below 👇.
 
@@ -25,7 +25,7 @@ You can follow me on the socials, below 👇.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:khaledtarek57357@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:khaledtelbahnasy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Elbhnasy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://twitter.com/K_Elbhnasy?t=TLf7FTVw2toJaq6AgN4WMA&s=09"><img src="https://img.shields.io/badge/twitter-%23181717.svg?style=plastic&logo=twitter&logoColor=blue" alt="Twitter"/></a>
 </p
