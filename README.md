@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi, I'm Khaled Tarek Elbhnasy <img src="https://media.giphy.com/media/Nz8zd9hhlNujmg2Jve/giphy.gif" width="35"></h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KVVgWtScb37USleUB3/giphy.gif" width="200"/>
+  <img src="https://cdn.dribbble.com/userupload/23674116/file/original-c90e701769c613739af5fca461679712.gif" width="200"/>
 </div>
 
 <p align="center">
